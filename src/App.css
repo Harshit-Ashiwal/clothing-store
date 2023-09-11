@@ -9,8 +9,9 @@
 body {
   font-family: "Open Sans Condensed", sans-serif;
   padding: 20px 60px;
-
-  
+  background: linear-gradient(to right, rgb(249, 173, 185), rgb(98, 199, 240));
+  position: relative;
+  opacity: 0.9;
 }
 
 a {
